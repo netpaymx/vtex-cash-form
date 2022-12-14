@@ -1,0 +1,12 @@
+{
+    "paymentData.paymentGroup.title": "Pago en Efectivo",
+    "paymentData.paymentGroup.debitoBancario.title": "Pago en Efectivo",
+    "paymentData.paymentGroup.debitoBancario.redirectInstructions": "Reffectuez votre paiement à mois sans intérêt avec votre carte de crédit (tant que cela s'applique).",
+    "paymentData.paymentGroup.debitoBancario.guaranteed": "Paiement par carte de:",
+    "paymentData.paymentGroup.debitoBancario.beCool": "Effectuez votre paiement par carte de crédit ou de débit Visa, MasterCard et AMEX.",
+    "paymentData.paymentGroup.debitoBancario.fast": "Mois Sans Intérêt:",
+    "paymentData.paymentGroup.debitoBancario.authorizeViaInternetBanking": "Reffectuez votre paiement à mois sans intérêt avec votre carte de crédit (tant que cela s'applique).",
+    "paymentData.paymentGroup.debitoBancario.safe": "Paiement en espèces:",
+    "paymentData.paymentGroup.debitoBancario.noRegisterNeeded": "Vous pouvez effectuer votre paiement dans plus de 29 000 magasins.",
+    "paymentData.paymentGroup.debitoBancario.contact": "Achats sécurisés avec NetPay."
+}
